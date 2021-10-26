@@ -90,6 +90,10 @@ private static final long serialVersionUID = 0L;
   public static final int NAME_FIELD_NUMBER = 1;
   private volatile java.lang.Object name_;
   /**
+   * <pre>
+   *name field
+   * </pre>
+   *
    * <code>string name = 1;</code>
    */
   public java.lang.String getName() {
@@ -105,6 +109,10 @@ private static final long serialVersionUID = 0L;
     }
   }
   /**
+   * <pre>
+   *name field
+   * </pre>
+   *
    * <code>string name = 1;</code>
    */
   public com.google.protobuf.ByteString
@@ -124,6 +132,10 @@ private static final long serialVersionUID = 0L;
   public static final int AGE_FIELD_NUMBER = 2;
   private int age_;
   /**
+   * <pre>
+   *age field
+   * </pre>
+   *
    * <code>int32 age = 2;</code>
    */
   public int getAge() {
@@ -452,6 +464,10 @@ private static final long serialVersionUID = 0L;
 
     private java.lang.Object name_ = "";
     /**
+     * <pre>
+     *name field
+     * </pre>
+     *
      * <code>string name = 1;</code>
      */
     public java.lang.String getName() {
@@ -467,6 +483,10 @@ private static final long serialVersionUID = 0L;
       }
     }
     /**
+     * <pre>
+     *name field
+     * </pre>
+     *
      * <code>string name = 1;</code>
      */
     public com.google.protobuf.ByteString
@@ -483,6 +503,10 @@ private static final long serialVersionUID = 0L;
       }
     }
     /**
+     * <pre>
+     *name field
+     * </pre>
+     *
      * <code>string name = 1;</code>
      */
     public Builder setName(
@@ -496,6 +520,10 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
+     * <pre>
+     *name field
+     * </pre>
+     *
      * <code>string name = 1;</code>
      */
     public Builder clearName() {
@@ -505,6 +533,10 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
+     * <pre>
+     *name field
+     * </pre>
+     *
      * <code>string name = 1;</code>
      */
     public Builder setNameBytes(
@@ -521,12 +553,20 @@ private static final long serialVersionUID = 0L;
 
     private int age_ ;
     /**
+     * <pre>
+     *age field
+     * </pre>
+     *
      * <code>int32 age = 2;</code>
      */
     public int getAge() {
       return age_;
     }
     /**
+     * <pre>
+     *age field
+     * </pre>
+     *
      * <code>int32 age = 2;</code>
      */
     public Builder setAge(int value) {
@@ -536,6 +576,10 @@ private static final long serialVersionUID = 0L;
       return this;
     }
     /**
+     * <pre>
+     *age field
+     * </pre>
+     *
      * <code>int32 age = 2;</code>
      */
     public Builder clearAge() {

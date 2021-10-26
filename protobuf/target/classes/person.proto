@@ -3,7 +3,14 @@ syntax = "proto3";
 option java_multiple_files =true;
 option java_package = "com.example.models";
 
+/*
+This is my person proto file
+*/
+
 message Person{
- string name =1;
- int32 age = 2;
+    //name field
+     string name =1;
+
+    //age field
+    int32 age = 2;
 }

@@ -8,16 +8,28 @@ public interface PersonOrBuilder extends
     com.google.protobuf.MessageOrBuilder {
 
   /**
+   * <pre>
+   *name field
+   * </pre>
+   *
    * <code>string name = 1;</code>
    */
   java.lang.String getName();
   /**
+   * <pre>
+   *name field
+   * </pre>
+   *
    * <code>string name = 1;</code>
    */
   com.google.protobuf.ByteString
       getNameBytes();
 
   /**
+   * <pre>
+   *age field
+   * </pre>
+   *
    * <code>int32 age = 2;</code>
    */
   int getAge();
